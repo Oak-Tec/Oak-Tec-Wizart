@@ -5,8 +5,6 @@
  </requires>
  <extension point="xbmc.python.pluginsource" library="default.py">
  <provides>Builds</provides>
- </extension>
- <extension point="xbmc.addon.metadata">
  <summary lang="de">OacTec Wizart</summary>
  <description lang="de">Hi ich hab euch ein coolen Build hochgeladen,ich kann aber nicht versbrech das noch einer kommt</description>
 	<website>https://github.com/Oak-Tec</website>
