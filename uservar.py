@@ -1,7 +1,7 @@
 import xbmcaddon
 
 '''#####-----Build File-----#####'''
-buildfile = 'http://funstersplace.net/text/builds.xml'
+buildfile = 'https://file.io/SMn08apvNqJx'
 
 '''#####-----Notifications File-----#####'''
 notify_url  = 'http://funstersplace.net/text/notify.txt'
